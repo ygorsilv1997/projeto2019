@@ -1,0 +1,10 @@
+C:\Users\PCGaMeR\Documents\projeto_2019\index\index\bin\Debug\index.exe.config
+C:\Users\PCGaMeR\Documents\projeto_2019\index\index\bin\Debug\index.exe
+C:\Users\PCGaMeR\Documents\projeto_2019\index\index\bin\Debug\index.pdb
+C:\Users\PCGaMeR\Documents\projeto_2019\index\index\obj\Debug\Projeto_Loja.csprojAssemblyReference.cache
+C:\Users\PCGaMeR\Documents\projeto_2019\index\index\obj\Debug\index.frmIndex.resources
+C:\Users\PCGaMeR\Documents\projeto_2019\index\index\obj\Debug\index.Properties.Resources.resources
+C:\Users\PCGaMeR\Documents\projeto_2019\index\index\obj\Debug\Projeto_Loja.csproj.GenerateResource.cache
+C:\Users\PCGaMeR\Documents\projeto_2019\index\index\obj\Debug\Projeto_Loja.csproj.CoreCompileInputs.cache
+C:\Users\PCGaMeR\Documents\projeto_2019\index\index\obj\Debug\index.exe
+C:\Users\PCGaMeR\Documents\projeto_2019\index\index\obj\Debug\index.pdb
